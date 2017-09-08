@@ -3,20 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Latihan2;
+package Latihan4;
 
 /**
  *
  * @author SMK TELKOM
  */
-public class KonstruktorSuperKelas {
+class DemoOverride2 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Employ programer1 = new Employ ("012408941", "Bayu", 25);
-        programer1.info();
+        B obj = new B();
+        obj.setA(75);
+        obj.setB(150);
+        obj.tampilkanNilai();
     }
     
 }
