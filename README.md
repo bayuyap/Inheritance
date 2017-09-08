@@ -25,14 +25,17 @@ Di Program ini terdapat 3 class dimana class 2 menginherit class
 pertama dan memiliki constructor yang sama dan akan di tampilkan di class 3
 
 ## Latihan 5
-![alt text](override.PNG)
+![alt text](truck.PNG)
 
 Di Program ini terdapat 2 class dimana class 2 menginherit class 
 pertama dan di class pertama kita membuat constructor dan variable dan di class kedua kita mengisi value dan di tampilkan
 
 ## Latihan 6
-![alt text](override.PNG)
+![alt text](Lat6.PNG)
 
+Di program ini kita menggunakan overload dan di program ini juga kita bisa membuat method yang sama namun berfungsi berbeda 
 
+## Praktikum1
+![alt text](Uji.PNG)
 
-
+Di program ini terdapat 3 class dimana di class pertama terdapat suatu method dan di class kedua terdapat 2 method yaitu overloading dan overriding dan akan di panggil di class ke 3
